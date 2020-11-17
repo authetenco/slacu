@@ -1,2 +1,2 @@
 # slacu
-:Bulb:Um site de cu
+:bulb: Um site de cu
