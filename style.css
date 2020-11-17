@@ -13,7 +13,7 @@ p{font-size: 1em; color: #ff0000;}
 body{background-image: url(img/kakeguri.png);}
 /*CABEÇALHO*/
 .cabecalho{width: 100%; float: left; padding: 50px 8%; background-color: Black;}
-.logo a {width: 289px; height: 137px; float: left; background: url("logo.png")no-repeat; font-size: 0px;}
+.logo a {width: 289px; height: 137px; float: left; background-image: url("logo.png"); font-size: 0px;}
 .logo a:hover{background-image: url("logo2.png"); width: 289px; height: 137px;}
 .cabecalho form{width: 30%; float: right;}
 .cabecalho input[type="text"] {width: 85%; float: left; padding: 15px 10px; border-radius: 5px 0 0 50px;}
